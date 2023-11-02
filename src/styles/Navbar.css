@@ -1,0 +1,28 @@
+/*** FONT ***/
+.navbar i, .navbar p {
+    color: white;
+}
+
+.navbar i {
+    font-size: 24px;
+}
+
+.navbar p {
+    font-size: 14.46px;
+}
+
+
+/*** LAYOUT ***/
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #F55A5A;
+    height: 55px;
+    width: 550px;
+}
+
+.navbar p {
+    margin-left: 5px;
+}
